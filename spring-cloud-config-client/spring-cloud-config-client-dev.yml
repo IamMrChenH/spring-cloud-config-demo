@@ -1,6 +1,0 @@
-# 应用名称
-server:
-  port: 8101
-ZZZZZ: /spring-cloud-config-client/spring-cloud-config-client-dev.yml
-
-  
